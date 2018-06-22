@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlueTooth</string>
+
+    <string name="title">Bluetooth Devices</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="request_permission">This sample needs camera permission.</string>
+</resources>
